@@ -118,7 +118,7 @@ ul.downloads {
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:270px;
+  width:95%;
 }
 
 .downloads li {
@@ -173,7 +173,8 @@ strong {
 
 section {
   float: right;
-  margin: 10px;
+  margin: 0px;
+  padding: 10px;
   width: 80%;
 }
 
@@ -191,7 +192,6 @@ hr {
 footer {
   width:80%;
   float:right;
-  position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
