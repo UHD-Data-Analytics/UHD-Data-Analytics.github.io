@@ -56,9 +56,8 @@ a:hover small {
 }
 
 .wrapper {
-  width:430px;
+  width:860px;
   margin:0 auto;
-  background-color: #002D6E
 }
 
 blockquote {
@@ -106,10 +105,11 @@ img {
 }
 
 header {
-  width:270px;
+  width:135px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  background-color: #002D6E
 }
 
 ul.downloads {
