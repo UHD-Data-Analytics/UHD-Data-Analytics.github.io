@@ -7,7 +7,6 @@ body {
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
-   display: flex;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -107,6 +106,7 @@ img {
 
 header {
   width:270px;
+  float: left;
   -webkit-font-smoothing:subpixel-antialiased;
   background-color: #002D6E
 }
@@ -172,7 +172,8 @@ strong {
 }
 
 section {
-  flex: 1;
+  float: right;
+  width: calc(100% - 270px);
   padding-bottom:50px;
 }
 
