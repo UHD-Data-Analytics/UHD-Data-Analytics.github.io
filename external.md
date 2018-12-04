@@ -8,12 +8,12 @@ title: "External Links"
 </p>
 
 <h2>Python Links</h2>
-{% for nav in site.data.python.main %}
+{% for nav in site.data.python %}
 <h5><a href="{{ site.url }}{{ nav.url }}">{{ nav.title }}</a></h5>
 {% endfor %}
 </br></br>
 <h2>R Links</h2>
-{% for nav in site.data.r.main %}
+{% for nav in site.data.r %}
 <h5><a href="{{ site.url }}{{ nav.url }}">{{ nav.title }}</a></h5>
 {% endfor %}
 </br></br>
