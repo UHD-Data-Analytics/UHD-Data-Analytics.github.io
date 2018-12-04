@@ -1,6 +1,7 @@
 ---
 title: Julia - Testfile 2
-Description: Second Testfile
+description: Second Testfile
+collection: r
 ---
 
 ## Test Heading 2
