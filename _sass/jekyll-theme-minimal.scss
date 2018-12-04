@@ -55,6 +55,12 @@ a:hover small {
   color:#777;
 }
 
+a.sidebar{color: #ffffff}
+a.sidebar:link  {text-decoration: none; color: #ffffff;}
+a.sidebar:visited {text-decoration: none; color: #ffffff;}
+a.sidebar:hover {font-weight: bold; color: #ffffff;}
+a.sidebar:active {text-decoration: none; color: #ffffff;}
+
 .wrapper {
  margin: 0;
 }
@@ -223,7 +229,7 @@ footer {
   footer {
     border:1px solid #e5e5e5;
     border-width:1px 0;
-    padding:20px 0;
+    padding:20px 10px 10px 10px;
     margin:0 0 20px;
     bottom: 0;
   }
