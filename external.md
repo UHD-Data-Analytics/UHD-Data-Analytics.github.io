@@ -11,9 +11,9 @@ title: "External Links"
 {% for nav in site.data.python %}
 <h5><a href="{{ nav.url }}">{{ nav.text }}</a></h5>
 {% endfor %}
-</br></br>
+
 <h2>R Links</h2>
 {% for nav in site.data.r %}
 <h5><a href="{{ nav.url }}">{{ nav.text }}</a></h5>
 {% endfor %}
-</br></br>
+
