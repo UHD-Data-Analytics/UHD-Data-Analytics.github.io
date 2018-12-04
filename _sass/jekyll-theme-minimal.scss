@@ -176,7 +176,7 @@ section {
   float: right;
   margin: 0;
   padding: 10 10 10 10px;
-  width: calc(95%-270px);
+  min-width: 360px;
 }
 
 small {
@@ -191,7 +191,7 @@ hr {
 }
 
 footer {
-  width:calc(100%-270px);
+  width: 370px;
   float:right;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
