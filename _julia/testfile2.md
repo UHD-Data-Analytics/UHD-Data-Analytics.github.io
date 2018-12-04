@@ -1,6 +1,6 @@
 ---
-title: Julia - Testfile 2
-description: Second Testfile
+title: "Julia - Testfile 2"
+description: "Second Testfile"
 collection: julia
 ---
 
