@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Python "Notes"
+permalink: /python/
 ---
 {% for document in site.python %}
 
