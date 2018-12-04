@@ -22,7 +22,7 @@
 
         <p class="sidebar">{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% for nav in site.data.navigation }
+        {% for nav in site.data.navigation %}
           <a href="{{ site.url }}{{nav.url }}">{{nav.title }}</a></br>
         {% endfor %}
 
