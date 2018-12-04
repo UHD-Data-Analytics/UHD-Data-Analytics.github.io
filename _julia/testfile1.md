@@ -1,6 +1,6 @@
 ---
-title: Julia - Testfile 1
-description: This is a test file to check to make sure the site is working
+title: "Julia - Testfile 1"
+description: "This is a test file to check to make sure the site is working"
 collection: julia
 ---
 
