@@ -1,0 +1,18 @@
+main:
+    - text: "Downloads folder for Python"
+      url: https://www.python.org/downloads/
+      
+    - text: "Official Installation Guide for Python"
+      url: https://docs.python-guide.org/starting/installation/
+      
+    - text: "Data Wrangling with Pandas"
+      url: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+    
+    - text: "Webscraping tutorial"
+      url: https://www.datacamp.com/community/tutorials/scraping-reddit-python-scrapy
+    
+    - text: "Scikit-Learn Cheat Sheet"
+      url: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf
+    
+    - text: "Visualization with Matplotlib Cheat Sheet"
+      url: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf

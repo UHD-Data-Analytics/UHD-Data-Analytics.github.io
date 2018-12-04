@@ -1,0 +1,18 @@
+main:
+    - title: "R Notes"
+      url: /R/
+    
+    - title: "Python Notes"
+      url: /Python/
+    
+    - title: "Julia Notes"
+      url: /Julia/
+    
+    - title: "R-Studio Notes"
+      url: /R-Studio/
+    
+    - title: "Jupyter Notebooks"
+      url: /Jupyter/
+    
+    - title: "External Notes"
+      url: /External-Notes/

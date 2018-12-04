@@ -1,0 +1,18 @@
+main:
+    - text: "The R Project for Statistical Computing"
+      url: https://www.r-project.org/
+
+    - text: "Installation Guide for R"
+      url: https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu
+    
+    - text: "Downloading Rstudio"
+      url: https://www.rstudio.com/products/rstudio/download/
+ 
+    - text: "Data Visualization with ggplot2"
+      url: https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf
+ 
+    - text: "Data Manipulation with dplyr"
+      url: https://dplyr.tidyverse.org/
+ 
+    - text: "Data Import with tidyr and readr"
+      url: https://github.com/rstudio/cheatsheets/blob/master/data-import.pdf
