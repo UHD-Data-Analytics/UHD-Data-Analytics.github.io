@@ -4,3 +4,64 @@ description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+# Collections
+collections:
+  r:
+    output: true
+    permalink: /:collection/:path/
+  python:
+    output: true
+    permalink: /:collection/:path/
+  julia:
+    output: true
+    permalink: /:collection/:path/
+  rstudio:
+    output: true
+    permalink: /:collection/:path/
+  jupyter:
+    output: true
+    permalink: /:collection/:path/
+  external:
+    output: true
+    permalink: /:collection/:path/
+
+
+# Defaults
+defaults:
+     # _r
+  - scope:
+      path: ""
+      type: r
+    values:
+      layout: single
+  # _python
+  - scope:
+      path: ""
+      type: python
+    values:
+      layout: single
+  # _julia
+  - scope:
+      path: ""
+      type: julia
+    values:
+      layout: single
+     # _rstudio
+  - scope:
+      path: ""
+      type: rstudio
+    values:
+      layout: single
+  # _jupyter
+  - scope:
+      path: ""
+      type: jupyter
+    values:
+      layout: single
+  # _external
+  - scope:
+      path: ""
+      type: external
+    values:
+      layout: single
