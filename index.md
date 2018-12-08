@@ -80,7 +80,7 @@ This is a normal paragraph following a header.
 
 Use the language after the 3 tickmarks for syntax highlighting:
 
-```
+````
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -88,7 +88,7 @@ var fun = function lang(l) {
   return true;
 }
 ```
-```
+````
 
 ```js
 // Javascript code with syntax highlighting.
@@ -97,14 +97,15 @@ var fun = function lang(l) {
   return true;
 }
 ```
-```
+
+````
 ```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-```
+````
 
 ```ruby
 # Ruby code with syntax highlighting
