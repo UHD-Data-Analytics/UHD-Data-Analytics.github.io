@@ -58,10 +58,10 @@ a:hover small {
   color:#777;
 }
 
-a.sidebar{color: #ffffff; font-size: 16px;}
+a.sidebar{color: #ffffff; font-size: 16px; font-weight: bold;}
 a.sidebar:link  {text-decoration: none; color: #ffffff;}
 a.sidebar:visited {text-decoration: none; color: #ffffff;}
-a.sidebar:hover {font-weight: bold; color: #ffffff;}
+a.sidebar:hover {text-decoration: underline; color: #ffffff;}
 a.sidebar:active {text-decoration: none; color: #ffffff;}
 
 .wrapper {
