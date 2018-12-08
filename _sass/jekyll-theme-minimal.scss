@@ -204,11 +204,11 @@ hr {
 }
 
 footer {
-  width: 75%;
+  width:75%;
   float:right;
   bottom:50px;
-  padding-left: 5px;
   -webkit-font-smoothing:subpixel-antialiased;
+  text-align:center;
 }
 
 @media print, screen and (max-width: 640px) {
@@ -237,6 +237,7 @@ footer {
     padding:20px 10px 10px 10px;
     margin:0 0 20px;
     bottom: 0;
+    text-align:center;
   }
 
   header a small {
