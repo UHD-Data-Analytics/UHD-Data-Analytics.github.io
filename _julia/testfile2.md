@@ -15,3 +15,5 @@ def testFunction:
 ```
 
 ### Additional Stuff here
+
+[Test Link](./random-link.jpg)
