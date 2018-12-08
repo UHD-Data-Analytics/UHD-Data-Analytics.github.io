@@ -208,7 +208,6 @@ footer {
   float:right;
   bottom:50px;
   padding-left: 5px;
-  padding-right: 10px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -223,11 +222,10 @@ footer {
     float:none;
     position:static;
     width:100%;
-  }
-
-  header {
+    padding-left: 5px;
     padding-right: 5px;
   }
+
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
@@ -237,7 +235,6 @@ footer {
   }
   footer {
     padding:20px 10px 10px 10px;
-    padding-left: 5px;
     margin:0 0 20px;
     bottom: 0;
   }
