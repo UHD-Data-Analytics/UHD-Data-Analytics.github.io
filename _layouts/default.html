@@ -23,7 +23,7 @@
         <p class="sidebar">{{ site.description | default: site.github.project_tagline }}</p>
 
         {% for nav in site.data.navigation %}
-          <a href="{{ site.url }}{{nav.url }}">{{nav.title }}</a></br>
+          <a class="sidebar" href="{{ site.url }}{{nav.url }}">{{nav.title }}</a></br>
         {% endfor %}
 
         
@@ -34,7 +34,7 @@
 
       </section>
       <footer>
-        <p><small>Hosted on GitHub Pages &mdash;</small></p>
+        <p><small>Hosted on GitHub Pages</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
