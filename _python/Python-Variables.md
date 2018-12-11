@@ -1,6 +1,6 @@
 ---
 title: "Python Variables"
-descrption: "Overview of variables in Python"
+description: "Overview of variables in Python"
 collection: python
 ---
 
