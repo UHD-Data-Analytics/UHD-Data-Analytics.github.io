@@ -12,7 +12,7 @@ You are free to to request the website holder to add your own content to this si
 
 To export from jupyter, you can just select the download as markdown option under File:
 
-![](./jupyterexport.png)
+![](assets/contributions/jupyterexport.png)
 
 To knit your .rmd file, just make sure you have the front matter have:
 ```
@@ -24,7 +24,7 @@ output: md_document
 For your page itself, make sure the exported markdown has the following front matter at the top of the page like so:
 
 
-![](./frontmatter.png)
+![](assets/contributions/frontmatter.png)
 
 the title, description, and collection are all VERY IMPORTANT so that the page can pick up the contents properly and add links to the page.
 
@@ -41,49 +41,49 @@ All of your image outputs should be in a folder labeled the same as your markdow
 Then you can relabel the markdown embedded images like so:
 
 ```
-![](./imagename.png)
+![](assets/contributions/imagename.png)
 ```
 
 This way the `.` will pick up the folder automatically if it's labeled the same as the markdown file.
 
 Now with a github account you can fork the website to your own github:
 
-![](./forkme.png)
+![](assets/contributions/forkme.png)
 
 Then you can navigate to the folder you want to add your content, and click upload file:
 
-![](./uploadfile.png)
+![](assets/contributions/uploadfile.png)
 
 and then drag the files into the box and commit the changes to your local forked version of the website
 
-![](./dragfile.png)
+![](assets/contributions/dragfile.png)
 
 Now you are ready to make a pull request. First you click the pull request button on the left here:
 
-![](./pullrequest.png)
+![](assets/contributions/pullrequest.png)
 
 Then we can make sure it's able to merge and then create the pull request:
 
-![](./pullrequest2.png)
+![](assets/contributions/pullrequest2.png)
 
 Add some comments, submit, and now the pull request is active!
 
-![](./pullrequest3.png)
+![](assets/contributions/pullrequest3.png)
 
 
 ### Accepting a pull request
 
 The site master can now check your pull request, by clicking on the pull request title:
 
-![](/acceptrequest1.png)
+![](assets/contributions/acceptrequest1.png)
 
 Check to see any conflicts, and if they feel comfortable with the content, they can merge the pull request:
 
-![](/acceptrequest2.png)
+![](assets/contributions/acceptrequest2.png)
 
 And a full merged request looks like this:
 
-![](/acceptrequest3.png)
+![](assets/contributions/acceptrequest3.png)
 
 
 If your front matter was displayed correctly, your content will be added as a link to the site!
