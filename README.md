@@ -16,3 +16,5 @@ Then scroll down to click commit changes. You can add notes about the upload its
 
 Once you get back to the original page and see the files uploaded, you might need to wait a minute so that github can rebuild the pages.
 However, once this is done, you should have the fully uploaded page available in the section you uploaded it to.
+
+Also check the section on how to merge pull requests under Contributions so other people can add content!
