@@ -1,3 +1,9 @@
+---
+title: "Introduction to Julia"
+description: "Quick Overview on Basic Julia functions"
+collection: julia
+---
+
 # Introduction to Julia
 
 This is curated from lecture notes on quantecon.org.
