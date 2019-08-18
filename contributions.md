@@ -6,7 +6,7 @@ layout: default
 
 * * *
 
-You are free to to request the website holder to add your own content to this site. Please follow these instructions so your content will meet the requirements to post correctly:
+You are free to request the website holder to add your own content to this site. Please follow these instructions so your content will meet the requirements to post correctly:
 
 ### Exporting from jupyter or Rstudio
 
